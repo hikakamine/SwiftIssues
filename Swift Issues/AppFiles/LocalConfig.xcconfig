@@ -1,0 +1,12 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CODE_SIGN_IDENTITY = iPhone Developer
+PRODUCT_BUNDLE_IDENTIFIER = com.example.SwiftIssues
+PRODUCT_BUNDLE_IDENTIFIER_TESTS = com.example.SwiftIssuesTests
+PRODUCT_BUNDLE_IDENTIFIER_UI_TESTS = com.example.SwiftIssuesUITests
+DEVELOPMENT_TEAM = ""
+
+// Pods Configurations
+#include "Pods/Target Support Files/Pods-Swift Issues/Pods-Swift Issues.debug.xcconfig"
+#include "Pods/Target Support Files/Pods-Swift Issues/Pods-Swift Issues.release.xcconfig"

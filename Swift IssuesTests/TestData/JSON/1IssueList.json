@@ -1,0 +1,14 @@
+[{
+    "html_url": "https://github.com/apple/swift/pull/1",
+    "id": 1,
+    "title": "Test title.",
+    "user": {
+      "login": "userLogin",
+      "id": 10,
+      "node_id": "node_id",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10?v=4"
+    },
+    "state": "open",
+    "created_at": "2021-02-23T03:13:26Z",
+    "body": "This is now just a draft to get some testing."
+}]
